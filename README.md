@@ -1,6 +1,6 @@
 # diabetiespreditct
-![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/2dc5e0a7-3b04-4dc8-83e2-378bf8638bd3)
 
+![image](https://github.com/ak-praveen47/diabetiespreditct/assets/146061363/a700021d-e707-4442-b025-4061a7cc2a58)
 
 ---
 

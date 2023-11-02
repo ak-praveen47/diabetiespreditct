@@ -30,7 +30,7 @@ To run this project, you can either download the files manually or use Git to cl
 
 ```bash
 # Clone the repository
-git clone https://github.com/Keerthilucifergithub/diabetiespredict .git
+git clone https://github.com/ak-praveen47/diabetiespredict .git
 
 # Navigate to the project directory
 cd diabetiespredict 
@@ -115,4 +115,3 @@ The code in this project trains a logistic regression model on this dataset to p
 
 ---
 
-Please customize this README file as needed to include specific details about your project, and ensure that the dataset URL is accurate and accessible.
